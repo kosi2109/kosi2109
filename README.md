@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Si Thu Htet</h1>
 <h3 align="center">A Full Stack Web Developer From Myanmar</h3>
 
-- 🌱 I’m currently learning **React**
+- 🔥 I’m currently learning **React , AI , ML**
 
 - 👨‍💻 All of my projects are available at [http://sithuhtet.netlify.app/](http://sithuhtet.netlify.app/)
 

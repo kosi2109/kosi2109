@@ -3,7 +3,7 @@
 
 - 🔥 I’m currently learning **React , AI , ML**
 
-- 👨‍💻 All of my projects are available at [http://sithuhtet.netlify.app/](http://sithuhtet.netlify.app/)
+- 👨‍💻 All of my projects are available at [my potfolio](http://sithuhtet.xyz)
 
 - 📫 How to reach me **sithuhtet.kosi21@gmail.com**
 

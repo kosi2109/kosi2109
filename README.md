@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Si Thu Htet</h1>
-<h3 align="center">A Full Stack Web Developer From Myanmar</h3>
 
-- 🔥 I’m currently learning **React , AI , ML**
+# Hi, I'm Si Thu Htet! 👋
 
-- 👨‍💻 All of my projects are available at [my potfolio](http://sithuhtet.xyz)
 
-- 📫 How to reach me **sithuhtet.kosi21@gmail.com**
+## 🚀 About Me
+I,m not a CS students but I'm trying to be a full stack developer...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS , Python 
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Nothing...
+
+🧠 I'm currently learning React and Php .
+
+📫 How to reach me at sithuhtet.kosi21@gmail.com
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sithuhtet.xyz/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/si-thu-htet-87063821b/)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>

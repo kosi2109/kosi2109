@@ -54,10 +54,7 @@ I learned coding from YouTube , Udemy and other learning sources . I prefer back
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/>  
+ 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=kosi2109&&style=flat-square)  
   
@@ -65,7 +62,4 @@ I learned coding from YouTube , Udemy and other learning sources . I prefer back
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

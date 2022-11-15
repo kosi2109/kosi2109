@@ -13,9 +13,11 @@
 
 
 ### Glad to see you here!  
-I'm a business student at Monywa University Of Economic . But I'm not interested in business so I've moved to IT field during COVID-19 period (around late of 2020). Now I’m trying to be a full stack developer . 
+I'm a self-taught fullstack developer with many projects experience . 
 
-I learned coding from YouTube , Udemy and other learning sources . I prefer backend then frontend .  
+I can build web application with Laravel , NodeJs , ReactJS and NextJS . 
+
+Currently , I'm learning deep dive into React , JavaScript , PHP and Laravel .
   
 
 <br/>  
@@ -24,7 +26,6 @@ I learned coding from YouTube , Udemy and other learning sources . I prefer back
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
@@ -36,7 +37,6 @@ I learned coding from YouTube , Udemy and other learning sources . I prefer back
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
 </div>  
 
 <br/>  
